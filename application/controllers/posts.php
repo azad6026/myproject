@@ -19,7 +19,7 @@ class Posts_Controller{
         $header= new View_Model('header');
         $master = new View_Model('master');  
         //create our class instances to use in our controller
-        $head_data = array("title" =>"Sky4Life : The Real Life's Sky","content"=> "","general_css" =>array("/styles/global.css"),"ie_script"=>array("http://html5shiv.googlecode.com/svn/trunk/html5.js"),"page_css" =>array(""));
+        $head_data = array("title" =>"SL: The Real Life's Sky","content"=> "","general_css" =>array("/styles/global.css"),"ie_script"=>array("http://html5shiv.googlecode.com/svn/trunk/html5.js"),"page_css" =>array(""));
         $head->data=$head_data;
         $master->data['head']=$head->render(false);
         //here we prepare pre and next links for pagination    
