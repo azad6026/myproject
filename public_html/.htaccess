@@ -1,0 +1,14 @@
+##to restrict access to public folders
+Options -Indexes
+ErrorDocument 404 /index.php
+DirectoryIndex index.php
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.*)$ index.php/$1 [L,QSA]
+
+  RewriteCond %{HTTP_REFERER} !^$ 
+  RewriteCond %{HTTP_REFERER} !^http://(www\.)?domain.com/.*$ [NC] 
+  RewriteRule \.(gif|jpg|jpeg|png)$ - [F]
+</IfModule>

@@ -1,0 +1,25 @@
+.main-content{
+    margin: 2em 0;
+}
+.main-sidebar {
+    margin: 4em -5em 0px 0px;
+}
+.search-header {
+    font-size: 1.5em;
+    margin: 1em 0px;
+    border-bottom: 3px solid rgb(0,130,130);
+    padding: .5em 0;
+}
+.search-area{
+	-moz-box-sizing:border-box;box-sizing:border-box;padding:1.5em .5em;border-bottom: 1px dotted;
+}
+.search-area p{
+    margin: 1em 0;
+}
+
+.search-link a,.search-header span{
+	color: rgb(65, 183, 216);text-decoration:none;
+}
+.search-link a:hover{
+	text-decoration:underline;
+}

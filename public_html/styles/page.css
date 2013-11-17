@@ -1,0 +1,54 @@
+article{
+border-bottom:none;
+}
+.comments{
+padding:0;
+}
+.comments .postmetadata{
+border-bottom:1px dotted rgb(130,130,130);margin: 1em 0;
+}
+.comments .postmetadata li{
+	display:inline-block;
+	padding: 0;
+	font-size: .6em;margin: .2em .5em;
+}
+.comments .postmetadata li:first-child{
+width:100%;font-size: .8em;color:rgb(0,0,0);
+}
+.comments .postmetadata li a {
+    color: rgb(65, 183, 216);
+    text-decoration: none;
+}
+.comments h3{
+padding: 1em .1em;border-bottom: 5px solid rgb(65, 183, 216);
+}
+.comments form {
+    margin: 2.5em 0px 0px;-moz-box-sizing: border-box;padding: 0.5em 0px 0.5em 0.75em;
+    border: 1px solid rgb(196, 196, 196);
+    background: none repeat scroll 0% 0% rgb(234, 255, 155);
+    border-radius: 5px 5px 5px 5px;
+}
+.comments form label {
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-size: 0.9em;
+}
+
+.comments form textarea {
+    margin: 0.5em 0px;width:90%;height:4em;
+}
+
+.comments form input[type="submit"] {
+    width: 20%;
+    margin-left: 0em;
+    height: 1.5em;
+    font-size: 1em;
+    cursor: pointer;
+    /* fallback */ background-color:rgb(209, 59, 44); /* Safari 4-5, Chrome 1-9 */ /* Can't specify a percentage size? Laaaaaame. */ background: -webkit-gradient(radial, center center, 0, center center, 460, from(rgb(255, 117, 122)), to(rgb(209, 59, 44))); /* Safari 5.1+, Chrome 10+ */ background: -webkit-radial-gradient(circle, rgb(255, 117, 122),rgb(209, 59, 44)); 
+	/* Firefox 3.6+ */ background: -moz-radial-gradient(circle, rgb(201, 117, 122),  rgb(209, 59, 44)); /* IE 10 */ background: -ms-radial-gradient(circle, #1a82f7, #2F2727); /* Opera couldn't do radial gradients, then at some point they started supporting the -webkit- syntax, how it kinda does but it's kinda broken (doesn't do sizing) */
+    border-radius: 3px;
+    border: medium none;
+}
+
+
+

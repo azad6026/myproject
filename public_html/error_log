@@ -1,0 +1,782 @@
+[25-Apr-2013 12:00:18] PHP Parse error:  syntax error, unexpected '"' in /home/sky4life/application/controllers/register_validation.php on line 79
+[25-Apr-2013 12:00:19] PHP Parse error:  syntax error, unexpected '"' in /home/sky4life/application/controllers/register_validation.php on line 79
+[25-Apr-2013 12:00:23] PHP Parse error:  syntax error, unexpected '"' in /home/sky4life/application/controllers/register_validation.php on line 79
+[25-Apr-2013 12:00:24] PHP Parse error:  syntax error, unexpected '"' in /home/sky4life/application/controllers/register_validation.php on line 79
+[25-Apr-2013 22:21:00] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[25-Apr-2013 22:21:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:21:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:21:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:21:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:21:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:21:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:21:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:21:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:21:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:03] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[25-Apr-2013 22:22:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:24] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[25-Apr-2013 22:22:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:36] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[25-Apr-2013 22:22:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:22:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[25-Apr-2013 22:31:21] PHP Fatal error:  Call to a member function get_post_page() on a non-object in /home/sky4life/application/controllers/confirm_registeration.php on line 53
+[25-Apr-2013 22:32:05] PHP Fatal error:  Call to a member function find_category_name_by_id() on a non-object in /home/sky4life/application/controllers/confirm_registeration.php on line 53
+[25-Apr-2013 23:08:48] PHP Parse error:  syntax error, unexpected T_STRING in /home/sky4life/application/controllers/register_validation.php on line 76
+[26-Apr-2013 09:34:35] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/sky4life/application/controllers/create_post.php on line 33
+[26-Apr-2013 09:39:47] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/sky4life/application/controllers/create_post.php on line 33
+[26-Apr-2013 09:42:36] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/sky4life/application/controllers/create_post.php on line 33
+[26-Apr-2013 11:01:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:01:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:01:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:13:09] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:13:09] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:13:09] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:14:29] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:14:29] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:14:29] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:18:38] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:18:38] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:18:38] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:22:30] PHP Parse error:  syntax error, unexpected ')' in /home/sky4life/application/controllers/profile.php on line 51
+[26-Apr-2013 11:22:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:22:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:22:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:25:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:25:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:25:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[26-Apr-2013 11:26:34] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/profile.php on line 1
+[26-Apr-2013 11:26:40] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/profile.php on line 1
+[26-Apr-2013 13:01:17] PHP Fatal error:  Cannot use object of type Users_Model as array in /home/sky4life/application/views/profile.php on line 4
+[26-Apr-2013 14:25:52] PHP Parse error:  syntax error, unexpected ')' in /home/sky4life/application/models/users.php on line 43
+[26-Apr-2013 17:52:54] PHP Parse error:  syntax error, unexpected $end in /home/sky4life/application/views/profile.php on line 5
+[27-Apr-2013 14:18:09] PHP Parse error:  syntax error, unexpected '<' in /home/sky4life/application/views/master.php on line 6
+[27-Apr-2013 16:08:34] PHP Warning:  Missing argument 1 for Session_Helper::login(), called in /home/sky4life/application/controllers/profile.php on line 28 and defined in /home/sky4life/application/helpers/session.php on line 32
+[27-Apr-2013 18:50:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sky4life/application/controllers/login_validation.php:28) in /home/sky4life/application/helpers/functions.php on line 33
+[27-Apr-2013 18:50:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sky4life/application/controllers/login_validation.php:28) in /home/sky4life/application/helpers/functions.php on line 33
+[27-Apr-2013 19:26:12] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[27-Apr-2013 19:26:12] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[27-Apr-2013 19:26:12] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[27-Apr-2013 19:26:12] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[27-Apr-2013 19:26:12] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[27-Apr-2013 19:26:12] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[27-Apr-2013 20:37:23] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/controllers/search_result.php on line 18
+[27-Apr-2013 20:37:27] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/controllers/search_result.php on line 18
+[27-Apr-2013 20:37:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/controllers/search_result.php on line 18
+[27-Apr-2013 20:37:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/controllers/search_result.php on line 18
+[27-Apr-2013 20:37:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/controllers/search_result.php on line 18
+[27-Apr-2013 20:37:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/controllers/search_result.php on line 18
+[27-Apr-2013 20:37:32] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/controllers/search_result.php on line 18
+[27-Apr-2013 20:37:55] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/controllers/search_result.php on line 18
+[27-Apr-2013 20:37:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/controllers/search_result.php on line 18
+[27-Apr-2013 20:37:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/controllers/search_result.php on line 18
+[27-Apr-2013 20:37:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/controllers/search_result.php on line 18
+[27-Apr-2013 20:37:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/controllers/search_result.php on line 18
+[27-Apr-2013 20:37:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/controllers/search_result.php on line 18
+[27-Apr-2013 20:37:57] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/controllers/search_result.php on line 18
+[27-Apr-2013 20:37:57] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/controllers/search_result.php on line 18
+[27-Apr-2013 20:47:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/controllers/search_result.php on line 18
+[30-Apr-2013 12:09:32] PHP Parse error:  syntax error, unexpected T_INCLUDE, expecting T_FUNCTION in /home/sky4life/application/library/database.php on line 3
+[30-Apr-2013 12:10:20] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'DB_SERVER' (2) in /home/sky4life/application/library/database.php on line 17
+[30-Apr-2013 12:11:07] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'DB_USER'@'localhost' (using password: YES) in /home/sky4life/application/library/database.php on line 17
+[02-May-2013 12:36:30] PHP Fatal error:  Call to undefined method Session_Helper::isloggedin() in /home/sky4life/application/views/post_page.php on line 30
+[02-May-2013 15:20:06] PHP Fatal error:  Cannot redeclare Posts_Model::get_post_page() in /home/sky4life/application/models/posts.php on line 199
+[02-May-2013 15:38:55] PHP Parse error:  syntax error, unexpected T_RETURN, expecting T_FUNCTION in /home/sky4life/application/models/posts.php on line 197
+[02-May-2013 15:40:00] PHP Parse error:  syntax error, unexpected T_RETURN, expecting T_FUNCTION in /home/sky4life/application/models/posts.php on line 197
+[04-May-2013 20:22:02] PHP Parse error:  syntax error, unexpected ')' in /home/sky4life/application/controllers/contact_validation.php on line 24
+[04-May-2013 20:22:48] PHP Parse error:  syntax error, unexpected '}' in /home/sky4life/application/controllers/contact_validation.php on line 59
+[04-May-2013 21:01:06] PHP Warning:  filter_input() expects parameter 1 to be long, string given in /home/sky4life/application/controllers/contact_validation.php on line 27
+[04-May-2013 21:46:28] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/sky4life/application/controllers/contact_validation.php on line 26
+[04-May-2013 21:48:55] PHP Parse error:  syntax error, unexpected '{' in /home/sky4life/application/controllers/contact_validation.php on line 29
+[09-May-2013 22:39:36] PHP Fatal error:  Call to undefined function  view_model() in /home/sky4life/application/controllers/posts.php on line 22
+[09-May-2013 22:42:52] PHP Fatal error:  Call to undefined function  view_model() in /home/sky4life/application/controllers/posts.php on line 22
+[11-May-2013 12:44:19] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting '&' or T_VARIABLE in /home/sky4life/application/models/posts.php on line 119
+[11-May-2013 13:04:25] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/sky4life/application/models/posts.php on line 124
+[11-May-2013 13:04:53] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/sky4life/application/models/posts.php on line 124
+[11-May-2013 13:05:43] PHP Catchable fatal error:  Object of class Database_Library could not be converted to string in /home/sky4life/application/models/posts.php on line 124
+[11-May-2013 13:10:37] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/sky4life/application/models/posts.php on line 124
+[11-May-2013 16:22:00] PHP Parse error:  syntax error, unexpected ';' in /home/sky4life/application/models/posts.php on line 123
+[11-May-2013 17:05:49] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-May-2013 14:09:39] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-May-2013 14:09:50] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-May-2013 14:12:15] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-May-2013 14:19:29] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-May-2013 15:48:25] PHP Parse error:  syntax error, unexpected T_FOREACH in /home/sky4life/application/views/header.php on line 69
+[12-May-2013 15:55:59] PHP Fatal error:  Call to undefined function  array_column() in /home/sky4life/application/views/header.php on line 68
+[12-May-2013 16:03:43] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/sky4life/application/views/header.php on line 72
+[12-May-2013 16:04:13] PHP Fatal error:  Allowed memory size of 75497472 bytes exhausted (tried to allocate 74711041 bytes) in /home/sky4life/application/views/header.php on line 72
+[12-May-2013 16:15:45] PHP Fatal error:  Allowed memory size of 75497472 bytes exhausted (tried to allocate 74711041 bytes) in /home/sky4life/application/views/header.php on line 72
+[12-May-2013 16:25:46] PHP Parse error:  syntax error, unexpected '<' in /home/sky4life/application/views/header.php on line 73
+[12-May-2013 16:26:19] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/sky4life/application/views/header.php on line 72
+[12-May-2013 16:29:23] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/sky4life/application/views/header.php on line 72
+[12-May-2013 16:29:51] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/sky4life/application/views/header.php on line 72
+[12-May-2013 16:29:51] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/sky4life/application/views/header.php on line 72
+[12-May-2013 16:29:51] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/sky4life/application/views/header.php on line 72
+[12-May-2013 16:29:51] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/sky4life/application/views/header.php on line 72
+[12-May-2013 19:58:51] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/sky4life/application/views/header.php on line 72
+[12-May-2013 19:58:51] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/sky4life/application/views/header.php on line 72
+[12-May-2013 19:58:51] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/sky4life/application/views/header.php on line 72
+[12-May-2013 19:58:51] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/sky4life/application/views/header.php on line 72
+[12-May-2013 20:17:03] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sky4life/application/views/header.php on line 69
+[12-May-2013 20:17:19] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/sky4life/application/views/header.php on line 76
+[12-May-2013 20:17:19] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/sky4life/application/views/header.php on line 76
+[12-May-2013 20:17:19] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/sky4life/application/views/header.php on line 76
+[12-May-2013 20:17:19] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/sky4life/application/views/header.php on line 76
+[12-May-2013 20:21:48] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/sky4life/application/views/header.php on line 74
+[12-May-2013 20:22:13] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/sky4life/application/views/header.php on line 76
+[12-May-2013 20:22:16] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/sky4life/application/views/header.php on line 76
+[12-May-2013 20:22:30] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/sky4life/application/views/header.php on line 66
+[12-May-2013 20:23:18] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/sky4life/application/views/header.php on line 66
+[12-May-2013 20:24:22] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/header.php on line 69
+[12-May-2013 20:54:52] PHP Parse error:  syntax error, unexpected $end in /home/sky4life/application/views/header.php on line 117
+[12-May-2013 20:55:19] PHP Parse error:  syntax error, unexpected $end in /home/sky4life/application/views/header.php on line 117
+[12-May-2013 20:56:07] PHP Parse error:  syntax error, unexpected $end in /home/sky4life/application/views/header.php on line 116
+[12-May-2013 20:57:05] PHP Parse error:  syntax error, unexpected $end in /home/sky4life/application/views/header.php on line 116
+[12-May-2013 20:59:28] PHP Parse error:  syntax error, unexpected $end in /home/sky4life/application/views/header.php on line 116
+[12-May-2013 21:22:01] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/sky4life/application/views/header.php on line 74
+[12-May-2013 21:22:28] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting ',' or ';' in /home/sky4life/application/views/header.php on line 70
+[12-May-2013 21:28:51] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[12-May-2013 21:28:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[12-May-2013 21:28:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[12-May-2013 21:28:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[12-May-2013 21:28:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[12-May-2013 21:28:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[12-May-2013 21:28:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[12-May-2013 21:28:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[12-May-2013 21:28:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[12-May-2013 21:28:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[12-May-2013 21:33:22] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/sky4life/application/views/header.php on line 71
+[13-May-2013 20:43:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:43:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:43:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:43:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:43:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:43:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:48:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:48:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:48:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:48:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:48:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:48:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:49:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:49:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:49:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:49:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:49:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[13-May-2013 20:49:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[15-May-2013 14:22:20] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[17-May-2013 05:43:37] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[20-May-2013 20:48:57] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[24-May-2013 21:05:02] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[26-May-2013 00:59:36] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[26-May-2013 00:59:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-May-2013 00:59:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-May-2013 00:59:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[26-May-2013 00:59:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-May-2013 00:59:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-May-2013 00:59:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[26-May-2013 00:59:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-May-2013 00:59:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[26-May-2013 00:59:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[26-May-2013 08:55:49] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[26-May-2013 09:27:39] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[26-May-2013 09:50:24] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[26-May-2013 10:40:48] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[26-May-2013 11:08:27] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[26-May-2013 11:30:29] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[26-May-2013 11:50:31] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[26-May-2013 12:24:37] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[26-May-2013 13:11:00] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[26-May-2013 13:25:54] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[31-May-2013 14:21:56] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting '(' in /home/sky4life/application/controllers/posts.php on line 68
+[01-Jun-2013 20:24:27] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[02-Jun-2013 14:42:32] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[04-Jun-2013 04:48:16] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[04-Jun-2013 04:59:01] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[06-Jun-2013 04:12:44] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:09:56] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:10:01] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:10:05] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:10:11] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:10:14] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:10:17] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:10:22] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:10:24] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:10:35] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:10:42] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:10:46] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:10:49] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:10:53] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:10:56] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:11:01] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:11:03] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:11:12] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:11:17] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:11:22] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:11:24] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[09-Jun-2013 08:11:28] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[11-Jun-2013 11:19:54] PHP Fatal error:  Call to a member function render() on a non-object in /home/sky4life/application/controllers/post_page.php on line 30
+[11-Jun-2013 12:33:24] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 10
+[11-Jun-2013 12:33:24] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 14
+[11-Jun-2013 12:35:48] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sky4life/application/controllers/posts.php on line 22
+[11-Jun-2013 15:01:02] PHP Parse error:  syntax error, unexpected '<' in /home/sky4life/application/views/search_result.php on line 1
+[11-Jun-2013 15:02:44] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/sky4life/application/views/search_result.php on line 2
+[11-Jun-2013 15:06:29] PHP Parse error:  syntax error, unexpected '<' in /home/sky4life/application/views/search_result.php on line 2
+[11-Jun-2013 15:07:25] PHP Parse error:  syntax error, unexpected '<' in /home/sky4life/application/views/search_result.php on line 2
+[12-Jun-2013 03:12:52] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 03:51:01] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 05:22:02] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 06:24:23] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 06:44:16] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 07:03:44] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 07:45:32] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 07:55:37] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 08:38:00] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 08:59:52] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 09:01:47] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 09:03:58] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 09:06:20] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 09:08:43] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 09:42:34] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 09:55:12] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 10:13:12] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 10:31:40] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 10:49:00] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 11:03:15] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 11:20:22] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[12-Jun-2013 11:38:52] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[15-Jun-2013 08:06:24] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[15-Jun-2013 08:06:27] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[18-Jun-2013 12:35:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:35:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:35:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:35:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:35:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:35:50] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:35:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:35:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:35:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:35:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:35:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:35:54] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:38:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:38:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:38:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:38:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:38:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:38:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:38:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:38:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:38:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 12:38:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sky4life/application/library/database.php on line 17
+[18-Jun-2013 17:42:24] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[19-Jun-2013 06:11:40] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[19-Jun-2013 14:51:30] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[21-Jun-2013 04:48:42] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[21-Jun-2013 18:04:20] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[21-Jun-2013 21:57:31] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/sky4life/application/models/posts.php on line 101
+[22-Jun-2013 00:09:11] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[22-Jun-2013 00:09:11] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[22-Jun-2013 00:09:11] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[22-Jun-2013 00:09:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[22-Jun-2013 00:09:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[22-Jun-2013 00:09:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[22-Jun-2013 00:09:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[22-Jun-2013 00:09:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[22-Jun-2013 00:09:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[22-Jun-2013 00:09:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[22-Jun-2013 00:09:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[22-Jun-2013 00:09:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[23-Jun-2013 10:48:21 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[23-Jun-2013 20:21:34 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jun-2013 12:11:08 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jun-2013 12:58:31 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[30-Jun-2013 14:32:59 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[30-Jun-2013 23:27:20 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[30-Jun-2013 23:42:18 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Jul-2013 00:56:59 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[02-Jul-2013 16:13:04 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Jul-2013 03:29:31 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Jul-2013 03:51:44 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Jul-2013 05:16:25 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Jul-2013 05:53:51 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Jul-2013 18:12:32 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Jul-2013 19:27:50 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Jul-2013 20:24:17 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Jul-2013 22:47:52 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Jul-2013 23:50:22 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Jul-2013 00:39:20 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Jul-2013 00:59:16 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Jul-2013 01:30:58 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Jul-2013 02:34:56 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Jul-2013 03:09:07 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Jul-2013 03:58:31 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Jul-2013 04:17:58 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Jul-2013 04:37:05 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Jul-2013 05:02:56 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Jul-2013 05:03:01 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[05-Jul-2013 15:08:29 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[05-Jul-2013 15:20:48 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[05-Jul-2013 16:31:59 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[06-Jul-2013 11:59:02 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[07-Jul-2013 11:40:38 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[07-Jul-2013 21:12:14 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[09-Jul-2013 18:32:29 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[10-Jul-2013 04:15:51 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 10
+[10-Jul-2013 04:15:51 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 10
+[10-Jul-2013 04:15:56 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 10
+[10-Jul-2013 05:58:56 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[11-Jul-2013 09:13:36 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[11-Jul-2013 21:37:07 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Jul-2013 12:55:09 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Jul-2013 15:50:43 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Jul-2013 16:36:26 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Jul-2013 19:49:35 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Jul-2013 20:16:50 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Jul-2013 20:59:23 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Jul-2013 21:42:54 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Jul-2013 22:07:19 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Jul-2013 22:26:31 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Jul-2013 22:30:06 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Jul-2013 22:50:12 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Jul-2013 23:45:50 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Jul-2013 23:55:58 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[13-Jul-2013 00:59:37 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[13-Jul-2013 03:26:43 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Jul-2013 05:59:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Jul-2013 05:59:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Jul-2013 16:36:59 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Jul-2013 17:11:43 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Jul-2013 17:40:21 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Jul-2013 18:10:52 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Jul-2013 20:02:51 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Jul-2013 20:12:43 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Jul-2013 21:10:21 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Jul-2013 21:30:38 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Jul-2013 23:55:37 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[16-Jul-2013 00:45:28 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[16-Jul-2013 01:06:34 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[16-Jul-2013 01:28:58 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[16-Jul-2013 01:56:49 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[16-Jul-2013 02:24:27 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[16-Jul-2013 02:29:32 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[16-Jul-2013 04:05:58 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[16-Jul-2013 07:00:59 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[16-Jul-2013 23:18:53 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[18-Jul-2013 08:06:17 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[18-Jul-2013 12:24:35 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[18-Jul-2013 15:15:53 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[18-Jul-2013 16:05:26 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[18-Jul-2013 17:17:03 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[18-Jul-2013 18:23:23 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[18-Jul-2013 18:43:16 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[18-Jul-2013 19:16:16 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[18-Jul-2013 20:01:20 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[18-Jul-2013 20:45:46 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[18-Jul-2013 21:08:01 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[19-Jul-2013 23:42:59 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[19-Jul-2013 23:43:09 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[20-Jul-2013 10:44:50 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[20-Jul-2013 10:44:58 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[20-Jul-2013 10:45:02 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[22-Jul-2013 00:19:10 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[22-Jul-2013 00:53:10 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[22-Jul-2013 01:12:07 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[22-Jul-2013 01:12:07 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[22-Jul-2013 01:51:18 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[22-Jul-2013 19:16:14 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[24-Jul-2013 07:30:47 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[24-Jul-2013 20:59:22 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[25-Jul-2013 18:29:28 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[25-Jul-2013 19:29:30 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[26-Jul-2013 22:39:14 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 02:03:26 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 04:37:40 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 06:11:44 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 10:06:59 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 13:21:56 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 13:22:19 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 13:22:23 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 14:29:38 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 14:31:04 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 14:32:44 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 14:32:48 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 14:33:39 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 14:33:47 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 14:33:52 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 14:35:10 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 14:35:16 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Jul-2013 14:35:20 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[28-Jul-2013 09:03:48 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[28-Jul-2013 09:03:48 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[28-Jul-2013 09:03:48 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[28-Jul-2013 09:03:48 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[28-Jul-2013 09:03:48 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[28-Jul-2013 09:03:48 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[28-Jul-2013 09:03:48 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[28-Jul-2013 09:03:48 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[28-Jul-2013 09:03:48 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[28-Jul-2013 09:08:45 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[29-Jul-2013 00:19:51 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[29-Jul-2013 07:44:36 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[29-Jul-2013 08:06:30 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[29-Jul-2013 10:33:12 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[30-Jul-2013 13:07:18 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Aug-2013 01:30:55 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Aug-2013 07:32:51 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Aug-2013 17:43:32 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Aug-2013 17:45:21 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Aug-2013 18:34:38 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Aug-2013 19:07:09 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Aug-2013 19:20:13 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Aug-2013 19:20:31 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Aug-2013 19:40:43 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Aug-2013 19:45:48 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[03-Aug-2013 19:51:14 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Aug-2013 04:24:39 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Aug-2013 04:36:30 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Aug-2013 04:44:18 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Aug-2013 07:27:19 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Aug-2013 09:27:16 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Aug-2013 14:57:20 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[07-Aug-2013 05:11:41 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[07-Aug-2013 08:02:24 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[07-Aug-2013 09:16:17 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[07-Aug-2013 14:13:49 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[07-Aug-2013 22:26:41 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[07-Aug-2013 23:27:26 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[08-Aug-2013 00:19:10 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[08-Aug-2013 01:17:42 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[08-Aug-2013 02:46:04 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[08-Aug-2013 04:12:55 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[08-Aug-2013 04:58:35 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[08-Aug-2013 05:40:22 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[08-Aug-2013 06:28:14 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[08-Aug-2013 07:08:06 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[08-Aug-2013 18:56:01 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[09-Aug-2013 06:55:14 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[09-Aug-2013 15:50:01 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[09-Aug-2013 21:20:02 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[10-Aug-2013 04:46:47 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Aug-2013 09:56:02 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Aug-2013 10:19:41 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Aug-2013 10:38:05 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Aug-2013 10:56:29 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Aug-2013 11:17:30 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Aug-2013 11:46:36 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Aug-2013 12:04:48 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Aug-2013 12:16:19 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Aug-2013 12:37:09 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Aug-2013 13:39:24 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Aug-2013 14:05:49 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Aug-2013 14:26:41 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Aug-2013 14:47:06 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Aug-2013 19:34:21 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Aug-2013 23:03:16 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[14-Aug-2013 06:25:45 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[14-Aug-2013 20:08:09 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Aug-2013 18:20:58 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Aug-2013 18:22:59 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Aug-2013 19:05:56 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Aug-2013 19:51:32 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Aug-2013 20:49:18 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Aug-2013 22:29:00 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Aug-2013 23:32:08 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[16-Aug-2013 00:52:59 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[16-Aug-2013 01:54:27 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[16-Aug-2013 02:52:15 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[16-Aug-2013 04:00:25 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[16-Aug-2013 06:49:52 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[17-Aug-2013 00:56:45 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[17-Aug-2013 02:01:19 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[19-Aug-2013 20:55:20 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[19-Aug-2013 21:05:10 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[19-Aug-2013 21:29:58 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[19-Aug-2013 22:27:24 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[19-Aug-2013 23:26:40 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[19-Aug-2013 23:38:13 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[20-Aug-2013 00:09:47 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[20-Aug-2013 00:58:17 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[20-Aug-2013 01:50:19 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[20-Aug-2013 01:50:21 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[20-Aug-2013 04:18:35 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[23-Aug-2013 21:26:12 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[25-Aug-2013 21:26:29 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[26-Aug-2013 18:46:10 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Aug-2013 05:49:27 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Aug-2013 06:33:11 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Aug-2013 06:58:45 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Aug-2013 06:58:47 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Aug-2013 06:58:48 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Aug-2013 14:07:25 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[28-Aug-2013 00:37:11 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[28-Aug-2013 02:46:03 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[29-Aug-2013 04:17:57 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[29-Aug-2013 14:32:58 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[29-Aug-2013 14:33:16 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[29-Aug-2013 14:33:19 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[29-Aug-2013 14:33:29 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[29-Aug-2013 14:33:44 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[29-Aug-2013 14:33:49 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[29-Aug-2013 14:33:51 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[29-Aug-2013 14:33:54 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[29-Aug-2013 14:33:56 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[29-Aug-2013 16:04:39 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[30-Aug-2013 17:58:44 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 10:43:38 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[31-Aug-2013 10:43:38 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[31-Aug-2013 12:00:31 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:00:38 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:00:42 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:00:45 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:00:48 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:00:53 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:00:56 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:00:59 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:01:08 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:01:12 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:02:13 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:04:29 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:04:38 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:04:42 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:04:48 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:04:57 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:05:03 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:05:09 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:05:18 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:05:31 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 12:05:43 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 13:24:28 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[31-Aug-2013 13:24:28 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[31-Aug-2013 13:24:28 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[31-Aug-2013 13:24:28 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[31-Aug-2013 13:24:28 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[31-Aug-2013 13:24:28 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[31-Aug-2013 13:24:28 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[31-Aug-2013 13:24:28 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[31-Aug-2013 13:24:28 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[31-Aug-2013 13:24:28 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[31-Aug-2013 13:24:28 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[31-Aug-2013 13:24:28 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[31-Aug-2013 21:58:25 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 22:01:18 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[31-Aug-2013 23:13:34 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 06:22:46 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 06:22:54 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 06:23:01 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 06:23:06 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 07:15:08 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 07:15:09 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 07:15:11 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 07:15:17 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 07:15:22 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 07:49:33 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 15:52:43 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 15:59:38 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 16:01:18 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 16:03:06 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 16:05:07 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 18:02:18 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 19:08:47 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 19:09:01 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 19:09:23 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 19:09:32 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 19:09:42 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 21:10:16 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 22:11:22 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[01-Sep-2013 22:13:44 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Sep-2013 06:28:29 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[04-Sep-2013 06:28:30 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Sep-2013 17:55:00 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[12-Sep-2013 22:51:15 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[12-Sep-2013 22:51:15 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Sep-2013 00:48:04 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Sep-2013 11:31:44 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Sep-2013 11:43:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Sep-2013 11:43:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[16-Sep-2013 06:06:12 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[22-Sep-2013 22:33:26 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[22-Sep-2013 22:33:26 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[28-Sep-2013 11:50:11 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[29-Sep-2013 06:44:57 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[29-Sep-2013 06:44:57 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[02-Oct-2013 01:19:14 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[07-Oct-2013 01:42:28 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[10-Oct-2013 05:19:36 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[10-Oct-2013 05:19:36 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[10-Oct-2013 17:15:05 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[10-Oct-2013 17:15:05 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[10-Oct-2013 17:15:05 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[10-Oct-2013 17:15:05 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[10-Oct-2013 17:15:05 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[10-Oct-2013 17:15:05 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[10-Oct-2013 17:15:05 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[10-Oct-2013 17:15:05 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[10-Oct-2013 17:15:05 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[10-Oct-2013 17:15:05 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[10-Oct-2013 17:15:05 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[10-Oct-2013 17:15:05 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[14-Oct-2013 13:25:33 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[14-Oct-2013 13:25:33 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[19-Oct-2013 17:48:33 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[21-Oct-2013 10:51:32 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[24-Oct-2013 09:12:24 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[24-Oct-2013 09:12:31 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[24-Oct-2013 09:12:45 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[24-Oct-2013 09:12:51 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[24-Oct-2013 09:12:58 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[24-Oct-2013 09:13:05 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[24-Oct-2013 09:13:12 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[24-Oct-2013 09:13:18 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[24-Oct-2013 09:13:32 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[24-Oct-2013 09:13:39 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[24-Oct-2013 09:13:45 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[24-Oct-2013 09:13:52 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[24-Oct-2013 09:13:59 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[24-Oct-2013 09:14:06 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[27-Oct-2013 22:35:16 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[27-Oct-2013 22:35:16 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[27-Oct-2013 22:35:16 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[27-Oct-2013 22:35:16 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[27-Oct-2013 22:35:16 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[27-Oct-2013 22:35:16 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[27-Oct-2013 22:35:16 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[27-Oct-2013 22:35:16 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[27-Oct-2013 22:35:16 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[27-Oct-2013 22:35:16 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[27-Oct-2013 22:35:16 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Filename cannot be empty in /home/sky4life/application/models/view.php on line 67
+[27-Oct-2013 22:35:16 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sky4life/application/models/view.php on line 67
+[01-Nov-2013 21:03:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[01-Nov-2013 21:03:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[05-Nov-2013 03:39:57 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[11-Nov-2013 02:30:52 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[11-Nov-2013 02:30:52 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[11-Nov-2013 09:59:51 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[11-Nov-2013 09:59:51 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[14-Nov-2013 20:51:21 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Nov-2013 00:55:35 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Nov-2013 00:55:37 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Nov-2013 03:27:23 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting '{' in /home/sky4life/application/controllers/posts.php on line 2
+[15-Nov-2013 03:28:21 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting '{' in /home/sky4life/application/controllers/posts.php on line 2
+[15-Nov-2013 03:28:45 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting '{' in /home/sky4life/application/controllers/posts.php on line 2
+[15-Nov-2013 04:34:05 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 10
+[15-Nov-2013 05:08:54 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 8
+[15-Nov-2013 05:09:56 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 8
+[15-Nov-2013 05:10:35 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/sky4life/application/core/controller_base.php on line 3
+[15-Nov-2013 05:12:16 America/New_York] PHP Parse error:  syntax error, unexpected T_NEW in /home/sky4life/application/core/controller_base.php on line 3
+[15-Nov-2013 05:12:44 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/sky4life/application/core/controller_base.php on line 3
+[15-Nov-2013 05:15:42 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 8
+[15-Nov-2013 05:17:09 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 05:21:07 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 05:21:11 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 05:21:12 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 05:21:16 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 05:21:17 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 05:21:23 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 05:24:41 America/New_York] PHP Fatal error:  Call to a member function count_all() on a non-object in /home/sky4life/application/controllers/posts.php on line 20
+[15-Nov-2013 05:43:26 America/New_York] PHP Fatal error:  Access to undeclared static property: Controller_Base_Core::$head in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 05:44:08 America/New_York] PHP Fatal error:  Access to undeclared static property: Controller_Base_Core::$head in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 05:46:11 America/New_York] PHP Parse error:  syntax error, unexpected T_NEW in /home/sky4life/application/core/controller_base.php on line 18
+[15-Nov-2013 05:47:34 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 05:54:04 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 05:55:14 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 06:03:13 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/sky4life/application/core/controller_base.php on line 3
+[15-Nov-2013 06:03:40 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/sky4life/application/core/controller_base.php on line 3
+[15-Nov-2013 06:04:14 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/sky4life/application/core/controller_base.php on line 3
+[15-Nov-2013 06:05:04 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/sky4life/application/core/controller_base.php on line 3
+[15-Nov-2013 06:05:23 America/New_York] PHP Fatal error:  Access to undeclared static property: Controller_Base_Core::$head in /home/sky4life/application/controllers/posts.php on line 7
+[15-Nov-2013 06:06:42 America/New_York] PHP Parse error:  syntax error, unexpected T_NEW in /home/sky4life/application/core/controller_base.php on line 18
+[15-Nov-2013 06:10:02 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 8
+[15-Nov-2013 06:11:21 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 06:11:53 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 06:11:57 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 06:13:51 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 06:15:10 America/New_York] PHP Fatal error:  Call to a member function count_all() on a non-object in /home/sky4life/application/controllers/posts.php on line 20
+[15-Nov-2013 06:16:28 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 06:19:15 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 06:19:20 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 11
+[15-Nov-2013 06:50:10 America/New_York] PHP Fatal error:  Call to undefined method stdClass::render() in /home/sky4life/application/controllers/posts.php on line 25
+[15-Nov-2013 07:10:58 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 07:10:58 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 07:10:58 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 07:11:18 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 07:11:18 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 07:11:18 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 07:11:43 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 07:11:43 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 07:11:43 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 07:14:44 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 07:14:44 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 07:14:44 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 07:15:09 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 07:15:09 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 07:15:09 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 08:42:51 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 08:42:51 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 08:42:51 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 11:25:26 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Nov-2013 11:25:29 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home/sky4life/application/models/posts.php on line 101
+[15-Nov-2013 11:44:46 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 11:44:46 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 11:44:46 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 15:53:24 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 15:53:24 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 15:53:24 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 15:53:45 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 15:53:45 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 15:53:45 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 17:52:18 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 17:52:18 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 17:52:18 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 17:52:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 17:52:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 17:52:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 19:11:07 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 19:11:07 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 19:11:07 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 19:31:09 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 19:31:09 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 19:31:09 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 20:19:38 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 20:19:38 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 20:19:38 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 21:49:32 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 21:49:32 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 21:49:32 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 21:57:04 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 21:57:04 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 21:57:04 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 22:14:12 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 22:14:12 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 22:14:12 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 23:10:13 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 23:10:13 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 23:10:13 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[15-Nov-2013 23:32:51 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[15-Nov-2013 23:32:51 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[15-Nov-2013 23:32:51 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11
+[16-Nov-2013 00:56:19 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 2
+[16-Nov-2013 00:56:19 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 7
+[16-Nov-2013 00:56:19 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/sky4life/application/views/head.php on line 11

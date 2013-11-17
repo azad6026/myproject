@@ -1,0 +1,1088 @@
+@charset 'utf-8';
+/*reset-stylesheet/ */
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,time,mark,audio,video { margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent; } 
+body { line-height:1; }
+ol,ul { list-style:none; }
+blockquote,q { quotes:none; }
+blockquote:before,blockquote:after,q:before,q:after { content:'';content:none; }
+ins { text-decoration:none; }
+del { text-decoration:line-through; }
+table { border-collapse:collapse;border-spacing:0; }
+/* end reset*/
+/* color system*/
+/**********************
+ rgb(197, 33, 116); //light pink
+ rgb(30, 154, 211); //navi blue
+ rgb(91, 197, 32); // light green
+ rgb(218, 39, 39); // pretty red
+ rgb(242, 111, 13); // light orange
+ rgb(33, 142, 76); // pretty green
+ rgb(197, 75, 46); // sold dark orange
+ rgb(254, 255, 175); //greeny yellow
+ rgb(97, 155, 40); // dark green
+ rgb(143, 21, 110); //dark purple
+ rgb(6, 93, 29); // blue green
+ rgb(254, 244, 193); // form color
+ background-color: rgb(0, 191, 243); //blue light color
+ background: rgb(100,123,230); blue blue
+font-family: 'DukeRegular',sans-serif; // LIGHT DARK FONT
+**********************/
+/* end color system*/
+#wrapper{
+	font-family:Helvetica,Arial,Verdana,sans-serif;
+	font-size:100%;
+	font-size:1em;
+	width: 100%; /* 960px actually*/
+	margin: 0 auto;font-size:100%;font-size: 1em;
+}
+.main-header {
+  	  position: relative; width:90%;margin:0 auto;border-top: 10px solid rgb(18, 160, 209);
+		 background:#fff;height:5.5em;font-size:1em;z-index: 9999;
+             /*font-family: "FuturaBT-Bold","moseo-sans-rounded","Arial-rounded",Impact;*/
+             font-family: "Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;
+}
+img{
+	max-width: 100%;max-height: 100%;outline: 0 none;
+}
+::selection {
+	background:none; /* Safari */
+	}
+.top-nav::-moz-selection,h3::-moz-selection,.search-section input[type="submit"]::-moz-selection {
+	background: none; /* Firefox */
+}
+/* logo */
+	
+	.site-logo { 
+		float: left;display: block;position: relative;font-size:.65em;
+		width:15%; /*  */
+		margin: 2em 0px 0.1em 0em;
+		
+    }
+    .site-logo a{
+    	display: block;position: relative;text-decoration:none;
+    }
+    .site-logo img{
+    	display: block;
+    }
+.site-logo b{
+    	display: block;margin:2em 1em 0 1.5em;font-size:1.3em;color:rgb(240,120);width:100%;
+font-family: 'DukeRegular',sans-serif;
+    }
+	/**/
+.floated-left{
+	float: left;
+}
+.floated-right{
+	float: right;
+}
+.common-ul-style{
+	list-style-type: none;
+}
+.toggle-menu{
+		display:none; background: rgb(100,107,210);
+box-shadow: -2px 3px 5px rgba(0, 0, 0, 0.5), 0px -15px 15px rgba(0, 0, 0, 0.1) inset;
+letter-spacing: 0.06em;box-sizing: border-box;border-radius: 3px;overflow: hidden;border: medium none;
+outline: 0 none;cursor: pointer;margin: 0em .5em 0 auto;
+	}
+.active{
+		display:block;
+	}
+/* NAVIGATION STYLE*/
+
+.top-nav{
+		position:relative;width: 350px; /* set it in px to make it flexible enough to change its position around header*/
+margin : .18em 0 0 12em;line-height: 1.5em;padding: .5em;-moz-box-sizing:border-box;box-sizing:border-box;
+	}
+	.main-nav{
+		padding: 0;margin:0;list-style: none outside none;-moz-box-sizing:border-box;box-sizing:border-box;
+	}
+	.main-nav-li{
+		display: inline-block;-moz-box-sizing:border-box;box-sizing:border-box;position: relative;padding: .5em .45em;margin:0;
+    background: rgb(100, 107,210);border-radius: 3px;
+		letter-spacing: 0.06em;box-shadow: -2px 3px 5px rgba(0, 0, 0, 0.5), 0px -15px 15px rgba(0, 0, 0, 0.1) inset;
+	}
+	.main-nav-a{
+		 white-space:nowrap; 
+		display: block;
+		float: left;
+	height: 30px;
+
+	line-height: 30px;
+	text-align: center;
+	color: #000;
+	text-decoration: none;text-transform: uppercase;font-size: .75em;
+	}
+	.main-nav-li:hover{
+		background: rgb(91, 197, 32);
+	}
+.main-nav-dd{
+	 border-top: 4px solid #c50f1e;
+    width: 120px;
+    margin: 0;
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 53px;
+    background: #ba0e1c url('../images/layout/submenu-bg.gif') repeat-x;
+    -webkit-border-bottom-right-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-bottomright: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    z-index: 300; /* Google Maps */
+    -moz-box-shadow: 0px 5px 10px #555; 
+    -webkit-box-shadow: 0px 5px 10px #555; 
+    box-shadow: 0px 5px 10px #555; 
+}
+nav ul li:hover > div{
+display:block;
+}
+.main-nav-dd ul {
+  list-style: none;
+  padding: 0;
+}
+.main-nav-dd-column {
+  margin: 0;
+  -moz-box-sizing:border-box;
+  box-sizing:border-box;
+    padding: .5em .7em;
+  display: table-cell;
+  border-left: 1px solid rgb(230,230,230);
+  *float: left; /*ie*/
+  *border-left: 0;
+
+}
+.main-nav-dd-column:first-child {
+  border-left: 0;
+}
+.main-nav-dd h3 {
+	
+	color: #000;
+}
+.main-nav-dd li{
+  padding: .4em .7em;
+    text-align: center;
+}
+.main-nav-dd a {
+	color: rgb(0,0,0);
+	text-decoration: none;font-size: .75em;
+}
+.main-nav-dd li:hover {
+	text-decoration: underline;
+}
+.main-nav-dd hr {
+	border: 1px dotted rgb(230,230,230);
+}
+/* search  section*/
+	.search-section{
+		 clear:both;float:right;
+	width: 65%;margin-top: -3em;margin-bottom:3em;
+}
+.search-section input{
+	float: right;border: medium none;border-radius: 3px;
+}
+	.search-label{
+		position: absolute;clip: rect(1px, 1px, 1px, 1px);
+	}
+	.search-section form{
+		display: block;
+	}
+.search-section input[type="text"]{
+	margin: .5em .43em .18em;padding: .4em .5em;width: 35%;border-radius: 3px;border: medium none;font-size: 1.1em;
+	background: rgb(174, 210, 215);color: rgb(51, 51, 51);
+	 transition-duration: 400ms;
+    transition-property: width, background;
+    transition-timing-function: ease;
+}
+.search-section input[type="text"]:focus {
+    width: 65%;
+}
+.search-section input[type="submit"]{
+	/*background: -moz-linear-gradient(center top , rgb(255, 117, 122) 0px, rgb(209, 59, 44) 100%) repeat scroll 0% 0% transparent;*/
+	/* fallback */ background-color:rgb(209, 59, 44); /* Safari 4-5, Chrome 1-9 */ /* Can't specify a percentage size? Laaaaaame. */ background: -webkit-gradient(radial, center center, 0, center center, 460, from(rgb(255, 117, 122)), to(rgb(209, 59, 44))); /* Safari 5.1+, Chrome 10+ */ background: -webkit-radial-gradient(circle, rgb(255, 117, 122),rgb(209, 59, 44)); 
+	/* Firefox 3.6+ */ background: -moz-radial-gradient(circle, rgb(201, 117, 122),  rgb(209, 59, 44)); /* IE 10 */ background: -ms-radial-gradient(circle, #1a82f7, #2F2727); /* Opera couldn't do radial gradients, then at some point they started supporting the -webkit- syntax, how it kinda does but it's kinda broken (doesn't do sizing) */
+	margin: .45em auto .12em;padding: .5em .3em;cursor: pointer;
+	display: block;
+	display: block;width: 20%;font-size: 1.05em;box-shadow: -2px 3px 5px rgba(0, 0, 0, 0.5), 0px -15px 15px rgba(0, 0, 0, 0.1) inset;
+}
+/* accordin login */
+.membership-accordion {
+	position: absolute;top:.8em;right: 0;
+	/*font-family:'helvetica Neue',helvetica,arial;*/
+}
+.membership-accordion h3 {
+     text-align: center;position:relative;z-index:9999;
+    float: left;
+    margin: 0 .05em ;letter-spacing: 0.06em;
+    cursor: pointer;
+    padding:.5em .75em;border-radius: 3px;
+    /*font-family: "Proxima Nova Regular","Helvetica Neue",Arial,Helvetica,sans-serif;*/
+    font-family:none;
+    background: rgb(13, 93, 128);box-shadow: -2px 3px 5px rgba(0, 0, 0, 0.5), 0px -15px 15px rgba(0, 0, 0, 0.1) inset;
+}
+.membership-accordion h3 a{
+    text-decoration:none;
+    color:rgb(0,0,0);
+}
+.membership-accordion h3:hover,.membership-accordion h3.active{
+	 /*background: -moz-linear-gradient(center top , rgb(233, 92, 51) 0px, rgb(229, 59, 44) 100%) repeat scroll 0% 0% transparent;*/
+	 /* fallback */ background-color: rgb(209, 59, 44); 
+	  /* Safari 4-5, Chrome 1-9 */ /* Can't specify a percentage size? Laaaaaame. */ background: -webkit-gradient(radial, center center, 0, center center, 460, fromrgb(233, 92, 51)), to(rgb(229, 59, 44))); 
+	  /* Safari 5.1+, Chrome 10+ */ background: -webkit-radial-gradient(circle, rgb(233, 92, 51), rgb(229, 59, 44)); /* Firefox 3.6+ */ background: -moz-radial-gradient(circle, rgb(233, 92, 51), rgb(229, 59, 44));
+	   /* IE 10 */ background: -ms-radial-gradient(circle, rgb(233, 92, 51), rgb(229, 59, 44)); /* Opera couldn't do radial gradients, then at some point they started supporting the -webkit- syntax, how it kinda does but it's kinda broken (doesn't do sizing) */
+
+}
+.membership-accordion  div{
+	padding: .25em .55em;
+        position: absolute;top:2.3em;right: 0;z-index:9999;
+	font-size: .9em;
+	border-radius: 3px;z-index;9999;display:none;
+	}
+	.membership-accordion div input[type="submit"] {
+    width: 80%;
+    margin-left: 1em;
+    height: 2em;
+    font-size: 1.4em;
+    letter-spacing: 0.06em;
+    cursor: pointer;
+    background: -moz-linear-gradient(center top , rgb(233, 92, 51) 0px, rgb(229, 59, 44) 100%) repeat scroll 0% 0% transparent;
+}
+.membership-accordion  div.open {
+display:block;
+}
+.membership-accordion form{
+	 border: 1px solid rgb(196, 196, 196);width: 18em;margin-right: -.55em;padding: 0.625em 0.9375em;
+	 background: rgb(234, 255, 155);border-radius: 5px;
+}
+.membership-accordion  div label{
+	margin: .2em .25em;font-size: 1.2em;text-transform: uppercase;font-size: 1.1em;letter-spacing: 0.06em;
+}
+.membership-accordion  div input{
+		 width:100%; padding: .3em .2em;margin: .3em .25em;border-radius: 4px;border: medium none;font-size: 1.1em;
+}
+.membership-accordion  div input[type=submit]{
+		width: 60%;margin-left: .2em;height: 2em;font-size: 1.4em;letter-spacing: 0.06em;cursor:pointer;
+		/*background: -moz-linear-gradient(center top , rgb(233, 92, 51) 0px, rgb(229, 59, 44) 100%) repeat scroll 0% 0% transparent*/
+		/* fallback */ background-color: rgb(209, 59, 44); /* Safari 4-5, Chrome 1-9 */ /* Can't specify a percentage size? Laaaaaame. */ background: -webkit-gradient(radial, center center, 0, center center, 460, from(rgb(255, 117, 122)), to(rgb(209, 59, 44))); /* Safari 5.1+, Chrome 10+ */ background: -webkit-radial-gradient(circle, rgb(255, 117, 122),rgb(209, 59, 44)); 
+	/* Firefox 3.6+ */ background: -moz-radial-gradient(circle, rgb(201, 117, 122),  rgb(209, 59, 44)); /* IE 10 */ background: -ms-radial-gradient(circle, #1a82f7, #2F2727); /* Opera couldn't do radial gradients, then at some point they started supporting the -webkit- syntax, how it kinda does but it's kinda broken (doesn't do sizing) */
+}
+.membership-accordion .forget-pass-div input[type="submit"] {
+     width: 80%;
+}
+.forgot{
+    font-size: .75em;
+    margin: .5em 0 .5em .5em;
+}
+
+.slide-section {
+    padding: 0;
+    width: 100%;
+    margin-top: 10em;
+}
+.join-us-section {
+    width: 15%;
+    padding: 3em 2em;
+    float:left;
+}
+
+/* slider style */
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 90%;
+  margin:0 auto;
+  padding: 0;
+      -webkit-box-shadow: inset 0 0 10px 0 rgba(0,0,0,.3);
+  -moz-box-shadow: inset 0 0 10px 0 rgba(0,0,0,.3);
+  box-shadow: inset 0 0 10px 0 rgba(0,0,0,.3);
+  }
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  }
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+.rslides img {
+  display: block;
+  height: 350px;
+  float: left;
+  width: 100%;
+  border: 0;
+  }
+
+.transparent-btns_nav {
+  z-index: 3;
+  position: absolute;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  top: 0;
+  left: 0;
+  display: block;
+  background: #fff; /* Fix for IE6-9 */
+  opacity: 0;
+  filter: alpha(opacity=1);
+  width: 48%;
+  text-indent: -9999px;
+  overflow: hidden;
+  height: 91%;
+  }
+
+.transparent-btns_nav.next {
+  left: auto;
+  right: 0;
+  }
+.transparent-btns_nav:focus{
+  outline: none;
+  }
+
+.transparent-btns_tabs {
+  margin-top: 10px;
+  text-align: center;
+  }
+
+.transparent-btns_tabs li {
+  display: inline;
+  float: none;
+  _float: left;
+  *float: left;
+  margin-right: 5px;
+  }
+
+
+.transparent-btns_tabs a {
+  text-indent: -9999px;
+  overflow: hidden;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  background: #ccc;
+  background: rgba(0,0,0, .2);
+  display: inline-block;
+  _display: block;
+  *display: block;
+  -webkit-box-shadow: inset 0 0 2px 0 rgba(0,0,0,.3);
+  -moz-box-shadow: inset 0 0 2px 0 rgba(0,0,0,.3);
+  box-shadow: inset 0 0 2px 0 rgba(0,0,0,.3);
+  width: 9px;
+  height: 9px;
+  }
+
+.transparent-btns_here a {
+  background: #222;
+  background: rgba(0,0,0, .8);
+  }
+  .caption {
+  display: block;
+  position: absolute;
+  z-index: 2;
+  font-size: 1em;/*20/16*/
+  text-shadow: none;
+  color: #ccc;
+  background: #000;
+  background: rgba(0,0,0, .6);
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 10px 20px;
+  margin: 0;
+  max-width: none;
+  }
+  .caption h2 a {
+  	font-size:1.25em; 
+  	color:rgb(250,250,250);	
+  }
+  /* end slider codes*/  
+/* main article styles*/
+.main{
+  width: 90%;margin: 5em auto 3em;
+}
+.main-content{
+	float:left;width: 65%;margin-top: 5em;
+}
+/* new post section styles*/
+.new-post-section{
+	-moz-box-sizing:border-box;box-sizing:border-box;padding: 1em .75em;margin-bottom:.75em;
+}
+.new-post-link{
+    color:rgb(0,0,0);text-decoration:none;
+    text-align: center;
+    float: left;
+    margin: 0px 0.05em;
+    letter-spacing: 0.06em;
+    cursor: pointer;
+    padding: 0.5em 0.75em;
+    border-radius: 3px 3px 3px 3px;
+    font-family: "Proxima Nova Regular","Helvetica Neue",Arial,Helvetica,sans-serif;
+    background: none repeat scroll 0% 0% rgb(13, 93, 128);
+    box-shadow: -2px 3px 5px rgba(0, 0, 0, 0.5), 0px -15px 15px rgba(0, 0, 0, 0.1) inset;
+}
+.post-form-div{
+display:none;
+margin: 2.5em 0 0;
+border: 1px solid rgb(196, 196, 196);
+    background:rgb(234, 255, 155);
+    border-radius: 5px 5px 5px 5px;
+}
+.photo-form div {
+    background: -moz-linear-gradient(center top , rgb(233, 92, 51) 0px, rgb(229, 59, 44) 100%) repeat scroll 0% 0% transparent;
+    border: medium none;
+    border-radius: 4px 4px 4px 4px;
+    height: 1.6em;
+    padding: .5em;
+    width: 9em;
+}
+
+.message{
+display:block;padding: .5em 1em;color: rgb(230,0,0);
+}
+.contact .message{
+color: rgb(255,255,255);font-size: 1.2em;
+}
+.message p{
+	word-break: hyphenate;margin: .5em 0;
+}
+.message p.confirmation-message{
+	color: rgb(0, 130, 0);
+}
+.contact .message p.confirmation-message{
+	color: rgb(10, 255, 0);
+}
+.photo-form,.new-post-form{
+-moz-box-sizing:border-box;box-sizing:border-box;padding:.5em 0 .5em .75em;;
+}
+.photo-form div,.new-post-form input[type="submit"]{
+    font-size: 1.2em;
+    letter-spacing: 0.06em;
+cursor:pointer;
+}
+.photo-form div{
+/*background: -moz-linear-gradient(center top , rgb(233, 92, 51) 0px, rgb(229, 59, 44) 100%) repeat scroll 0% 0% transparent;*/
+/* fallback */ background-color:rgb(209, 59, 44); /* Safari 4-5, Chrome 1-9 */ /* Can't specify a percentage size? Laaaaaame. */ background: -webkit-gradient(radial, center center, 0, center center, 460, from(rgb(255, 117, 122)), to(rgb(209, 59, 44))); /* Safari 5.1+, Chrome 10+ */ background: -webkit-radial-gradient(circle, rgb(255, 117, 122),rgb(209, 59, 44)); 
+	/* Firefox 3.6+ */ background: -moz-radial-gradient(circle, rgb(201, 117, 122),  rgb(209, 59, 44)); /* IE 10 */ background: -ms-radial-gradient(circle, #1a82f7, #2F2727); /* Opera couldn't do radial gradients, then at some point they started supporting the -webkit- syntax, how it kinda does but it's kinda broken (doesn't do sizing) */
+border:medium none;border-radius: 4px 4px 4px 4px;height:1.6em;
+}
+.new-post-form label{
+text-transform: uppercase;letter-spacing: 0.06em;font-size: .9em;
+}
+.new-post-form select,.new-post-form input,.new-post-form textarea{
+margin:.5em 0;
+}
+.new-post-form select{
+width: 40%;
+}
+.new-post-form input[type="text"],.new-post-form textarea{
+width:90%;
+}
+.new-post-form textarea{
+height:8em;
+}
+.new-post-form input[type="submit"] {
+    /*background: -moz-linear-gradient(center top , rgb(233, 92, 51) 0px, rgb(229, 59, 44) 100%) repeat scroll 0% 0% transparent;*/
+    
+/* fallback */ background-color:rgb(209, 59, 44); /* Safari 4-5, Chrome 1-9 */ /* Can't specify a percentage size? Laaaaaame. */ background: -webkit-gradient(radial, center center, 0, center center, 460, from(rgb(255, 117, 122)), to(rgb(209, 59, 44))); /* Safari 5.1+, Chrome 10+ */ background: -webkit-radial-gradient(circle, rgb(255, 117, 122),rgb(209, 59, 44)); 
+	/* Firefox 3.6+ */ background: -moz-radial-gradient(circle, rgb(201, 117, 122),  rgb(209, 59, 44)); /* IE 10 */ background: -ms-radial-gradient(circle, #1a82f7, #2F2727); /* Opera couldn't do radial gradients, then at some point they started supporting the -webkit- syntax, how it kinda does but it's kinda broken (doesn't do sizing) */    border: medium none;
+    border-radius: 4px 4px 4px 4px;
+    height: 2em;
+}
+.pagination {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: .75em;
+	text-align:left;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	padding:.5em;
+	background-color:rgb(200,200,200);
+	border-top:1px dotted rgb(100,100,100);
+	color:rgb(31,30,31);
+	margin:1em auto 2em;
+}
+
+.pagination a {
+	font-weight:bold;
+	color:rgb(65,183,216);
+	text-decoration:none;
+	padding:.2em .3em;
+	margin:.2em;
+}
+
+.pagination a:hover, div.pagination a:active {
+background:rgb(90,170,150);
+}
+.pagination span.current_page {
+	padding:.2em .3em;
+	color:#000;
+	background-color: #99ffff;
+}
+ article {
+    border-bottom: 5px solid rgb(65, 183, 216);margin-bottom: 1em;padding: 1em .5em;font-size: 1.25em;
+    line-height: 1.4em;
+}
+.post h2 {
+    font-size: 1.7em;
+}
+h2 a {
+    color: rgb(51, 51, 51);text-decoration: none;
+}
+article.post h2 .post-category {
+    display: block;
+    color: rgb(65, 183, 216);
+    font-size: 0.45em;
+    line-height: 1.5em;
+    text-transform: uppercase;
+     font-family: "Proxima Nova Bold","Helvetica Neue",Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    padding-bottom: 0.5em;
+    letter-spacing: 1px;
+}
+ article ul {
+    list-style-type: none outside none;
+}
+
+ul.postmetadata li.post-author {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    display: block;
+    padding: 0.5em 0.5em 0.5em 0px;
+}
+ul.postmetadata li.post-author, ul.postmetadata + p, div.ad + p, div.entry p:first-child {
+    font-size: .75em;
+    line-height: 1.1em;
+    margin: 0px;
+}
+ul.postmetadata li {
+    color: rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    list-style: none outside none;
+    padding: 1em 1em 0px 1em;
+    white-space: nowrap;
+}
+ul.postmetadata li a {
+    color: rgb(65, 183, 216);
+    text-decoration: none;
+}
+ul.postmetadata li.post-author, ul.postmetadata + p {
+    
+    padding: 0.5em 0px;
+    margin: 0px;
+}
+article p img {
+    margin: 0.5em 0px;width: 100%;height: 20em;
+}
+a.continue-reading {
+    background-color: rgb(65, 183, 216);
+    border-radius: 5px 5px 5px 5px;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    margin: 2em 0px 0px;
+    padding: 0.25em 0.5em;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+/* end article codes*/
+/* aside sidebar code */
+.main-sidebar {
+    width: 31.9149%;
+    float: right;
+    clear: none;
+    margin:12em -5em 0 0;
+line-height: 1.2em;
+}
+.sidebar-inner-section h2 {
+    /*color: rgb(118, 106, 98);*/
+    padding: 0.5em 30px 0.5em 0px;
+    margin: .5em 0 0 1em;
+    border: 0px none;
+    font-size: 1.1em;
+    
+}
+.sidebar-inner-section p {
+    font-size: .9em;padding: 0px 0px 1em;
+}
+
+.about-section{
+	/*border-top: 3px solid rgb(83,196,204);*/
+}
+.new-posts-section{
+	/*border-top: 3px solid rgb(201, 117, 122);*/
+}
+.popular-posts-section{
+	border-top: 3px solid rgb(240, 171,83);
+}
+.related-posts-section{
+	/*border-top: 3px solid rgb(83,196,204);*/
+}
+.about-section blockquote,.about-section a:link,.about-section a:visited {
+    color: rgb(83,196,204);
+}
+.new-posts-section blockquote,.new-posts-section a:link,.new-posts-section a:visited {
+    color: rgb(183, 71, 78);
+}
+.popular-posts-section blockquote,.popular-posts-section a:link,.popular-posts-section a:visited {
+    color: rgb(240, 171,83);
+}
+.related-posts-section blockquote,.related-posts-section a:link,.related-posts-section a:visited{
+color: rgb(83,196,204);
+}
+.categories-list-header {
+    font-size: 1.1em;line-height: 1.1em;padding: 0.5em 0px 0px;margin: .5em 0 0 1em;
+}
+.sidelist {
+    padding:1em .5em;list-style: none outside none;font-size: .9em;position: relative;overflow: hidden;
+}
+.sidelist li {
+    padding: 0.5em 1.3em ;color: rgba(0, 0, 0, 0.35);
+}
+.sidelist li a{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.25);text-decoration: none;color: rgb(80, 170, 150);text-transform: uppercase;
+}
+/* end of sidebar*/
+	  /* footer section*/
+      
+/* #Contact
+================================================== */
+.fotter-clearer{
+	clear: both;
+}
+.main-footer{
+	clear: both;
+	width: 90%;
+	margin: 0 auto;
+	/*background: rgb(74,150,245);*/
+		background:url(../images/star.jpg) center center;
+	text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2);
+	opacity: .55;
+	padding: 0;
+	position: relative;
+	height: 550px;color:rgb(255,255,255);
+}
+
+.contact {
+	width: 70%;
+	margin: 0 auto;
+}
+.gototop {	
+	width: 50%;
+	font-size: 1.8em;
+	position: relative;
+	text-align: center;
+	margin: .5em auto 1em;
+	
+	
+}
+.gototop  a{
+	text-decoration: none;color: #000;
+}
+.top2 {
+	
+	width: 223px;
+	height: 34px;
+	top: 6px;
+	position: relative;
+	margin: auto;
+	display: inline-block;
+}
+.contact-header{
+	position: relative;
+	width: 100%;
+	margin:0 auto;
+	padding: 1em 0;
+}
+.contact h2 {
+
+	font-size: 2em;
+}
+
+.done {
+	font-family: 'Open Sans', sans-serif;
+	color: #fff;
+	font-size: 14px;
+	margin-bottom: 15px;
+	padding: 10px;
+	display: none;
+}
+
+.contact-form {
+
+	width: 100%;
+	position: relative;
+	margin: 0 auto;
+	vertical-align: middle;
+}
+/* contact form */
+.contact-form label {
+	display: block;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.1em;
+	text-transform: uppercase;
+	margin: .5em;
+}
+.contact-form input,.contact-form textarea {
+	width: 70%;
+	height: 18px;
+	margin: .55em ;
+	padding:.5em .25em;
+	font-family: 'Open Sans', sans-serif;
+	
+
+}
+.contact-form textarea {
+	height: 125px;
+
+}
+.contact-form input.submit-button {
+	display: block;
+	background: #fcd996;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	width: 70px;
+	height: 25px;
+	text-align: center;
+	padding: .2em .4em;
+}
+.contact-form input,.contact-form textarea,.contact-form input.submit-button{
+	border-radius: 3px;
+}
+.contact-form input.submit-button:hover {
+	background: #fae3b6;
+}
+.contact-form input[type='checkbox'],.registeration-form input[type='checkbox'] {
+	-webkit-appearance: none; 
+	-moz-appearance: none; 
+	-o-appearance: none;
+	width:1.5em;
+	margin:.5em 0 0 .5em ;
+}
+.registeration-form input[type='checkbox'] {
+	margin: 0em .5em 1em .5em;
+}
+.contact-form label[for='name'],.contact-form .name,.registeration-form label[for='name'],.registeration-form .name {
+	display:none;
+}
+.contact-info {
+	position: relative;
+	z-index: 300;
+	margin-top: 20px;
+}
+.contact-info p {
+	margin-bottom: 5px;
+	line-height: 25px;
+	font-size: 14px;
+}
+
+.contact-info img {
+	margin-left: 6px;
+	margin-right: 10px;
+	vertical-align: middle;
+}
+.copyright {
+	text-align: center;
+	position: relative;
+	z-index: 300;
+	margin-bottom: 0;
+	 
+}
+
+.copyright p {
+	font-size: 1.2em;
+	margin: 1em auto;
+}
+#scroll-top {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+a.button {
+    display: inline-block;
+    text-align: center;
+    font-family: Brandon,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0.25em;
+    padding: .7em 1em;
+    font-size: .65em;
+    background: none repeat scroll 0% 0% rgb(60, 124, 89);
+    border-radius: 3px 3px 3px 3px;
+    border: 1px solid rgb(62, 127, 91);
+    text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.7), 0px 1px 0px rgba(255, 255, 255, 0.3);
+}
+a.button:hover {
+	background: grey;
+	cursor: pointer;
+	border: 1px solid #999
+}
+	/* end footer section*/
+@media all and (max-width: 56.25em){ /* 900px */
+.photo-form input[type="file"] {
+margin-bottom: .75em;font-size:1em;
+}
+}
+@media all and (max-width: 37.5em){ /* 600px */
+.top-nav{
+width:auto;
+}
+.top-nav ul{
+display:none;
+}
+.main-nav-li{
+	display: block;border-radius: 0;
+}
+.main-nav-a{
+	float: none;
+}
+.rslides{
+width:90%;margin:0 auto;
+}
+.main {
+    margin: 2em auto 3em;
+}
+
+
+.main-content{
+	float:none;width:100%;
+	}
+	article {
+    font-size: 1em;
+    line-height: 1em;
+}
+.main-sidebar {
+	    width: 100%;
+	    margin: 2em 0em 2em 1em;
+	    float: none;
+	    clear: none;
+	    line-height: 1em;
+	}
+	.sidelist li{
+    	float: left;width: 35%;
+    }
+.inactive{
+		display: none;
+	}
+	.nav-active{
+		display:block;
+	}
+.photo-form,.new-post-form{
+padding:.5em 0 0 .1em;
+}
+a.button{padding: 0.7em;}
+.sidebar-inner-section h2,.categories-list-header {
+    padding:0
+    margin: 0.5em 0px 0px 1.5em;
+}
+article p img {
+    width: 90%;
+    height: 15em;
+    margin: .5em 0;
+}
+.rslides img {
+    height: 15em;
+ }
+ .search-section {
+    width: 100%;
+    margin-top: -2em;
+}
+}
+@media all and (max-width: 31.25em){ /* 600px */
+.membership-accordion h3{
+float:none;margin-bottom: .3em;
+}
+.search-section{
+	clear:both;width:100%;margin: 2em 0 2.5em;
+    }
+.search-section input[type="submit"] {
+ width: 15%;background: url(../images/search2.png) center center no-repeat;padding: .35em;margin-top: .6em;text-indent: -999em;
+}
+
+
+
+}
+@media all  and (min-width: 15em) and (max-width: 20em){ /*240/16 ,  320/16 */
+.toggle-menu{
+		display:block;position: absolute;right: .6em;padding: 0.2em 1em;z-index: -9999;margin: 5em -.4em 0 -1.8em;text-align: center;text-decoration:none;color:rgb(0,0,0);width: 3.5em;
+		
+	}
+.top-nav ul.open {
+display:block;
+    position: absolute;
+    right:.3em;
+    width: 11em;
+    top: 9em;
+}
+.membership-accordion div {
+    position: absolute;
+    top: 7.5em;
+    display: none;
+    left: -7.5em;
+}
+.membership-accordion form {
+    width: 14em;
+    margin: .5em -3.5em;
+}
+article p img {
+    height: 10em;
+}
+.photo-form input[type="file"] {
+font-size:.56em;margin-bottom: 1em;
+}
+.site-logo{
+		width:35%;
+	}
+	.search-section input[type="text"] {
+    width: 65%;
+    }
+ 
+}
+@media all  and (min-width: 20.01em) and (max-width: 31.25em){ /*320/16 ,  500/16 */
+	
+	.site-logo{
+		margin:1em auto 0 1em;width:35%;
+	}
+.top-nav{
+position:absolute;
+top:0;
+right:0;}
+	.toggle-menu{
+		display:block;float:left;text-decoration: none;color: rgb(0,0,0);padding: 0.2em 1.6em;z-index: -9999;margin: 5em -.4em 0 auto;
+		
+	}
+.top-nav ul.open { 
+    display: block;
+    position: absolute;left: -11em;width:11em;top: 5.3em;padding: 0.25em 0.55em;
+    z-index: 500; 
+    }
+.top-nav ul.open li { display: block; list-style: none; text-align: center; }
+.top-nav	ul.open li a { display: block;  text-decoration: none; }
+.membership-accordion div {
+    right:6.8em;
+}
+.membership-accordion form {
+    width: 15em;
+    margin: 0 .5em;
+}
+.membership-accordion div input {
+    margin: 0.3em -.3em;
+}
+.photo-form input[type="file"] {
+font-size:.55em;margin-bottom: 1em;
+}
+
+}
+/* this is for ipad and mobile phones generally */
+@media all and (min-width: 31.26em) and (max-width: 37.5em){
+ /* 400px to 600px/16=37.5*/
+	.site-logo { 
+		width:25%;	
+    }
+
+	.toggle-menu{
+		display:block;float:left;text-decoration: none;color: rgb(0,0,0);padding: .22em .7em;margin: .15em 0.5em 0px auto;
+		
+	}
+.top-nav ul.open { 
+    display: block;
+    width: 11em;position: absolute;top: 2.75em;left: 0;padding: 0.25em 0.55em;
+    z-index: 500; 
+    }
+.top-nav ul.open li { display: block; list-style: none; text-align: center; }
+.top-nav	ul.open li a { display: block;  text-decoration: none; }
+	/* searc section style*/
+	.search-section{
+		width: 75%;margin-top: -4em;   
+}
+		/*position: absolute;top:5.53em;right:0;line-height: 2em;border: thin solid white;
+		padding: .3em;border-radius: 4px;width: 80%;*/
+	.slide-section {
+    margin: 0 0 1em;
+    }
+	.search-section input[type="submit"]{
+		width: 60%;
+	}
+.search-section input[type="submit"]{
+	display: block;width: 22%;font-size: 1.05em;box-shadow: -2px 3px 5px rgba(0, 0, 0, 0.5), 0px -15px 15px rgba(0, 0, 0, 0.1) inset;
+}
+	.rslides{
+		margin-top: 6em;
+	}
+.photo-form input[type="file"] {
+font-size:.7em;margin-bottom: .5em;
+}
+
+}
+@media all and  (min-width: 37.51em) and (max-width: 50em){ /* min:650px max:800px */
+	
+.site-logo{
+width: 25%;
+}
+
+.search-section{
+width: 70%;margin-top: -1em;
+}
+.top-nav {
+display:block;position:relative;z-index:-9999;
+clear:both;
+float:right;
+margin:-4em -6.25em 1em auto;
+}
+}
+@media all and  (min-width: 62.5em) and (max-width: 75em){ /* min:1000px; max:1200px;*/
+#wrapper{
+width:85%;
+}
+.top-nav {
+    display:block;margin: 0.18em 0px 0px 14em;
+
+}
+.search-section {
+    width: 500px;
+}
+.photo-form input[type="file"]{
+margin-bottom:1em;
+}
+}
+@media all and  (min-width: 75.01em) and (max-width: 87.5em){ /* min:1200px; max:1400px;*/
+#wrapper{
+width:80%;
+}
+.top-nav {
+    display:block;margin: 0.18em 0px 0px 16em;
+}
+.search-section {
+    width: 500px;
+}
+
+}
+@media all and  (min-width: 87.51em) and (max-width: 100em){ /* min:1400px; max:1600px;*/
+#wrapper{
+width:75%;
+}
+.top-nav {
+    display:block;margin: 0.18em 0px 0px 18em;
+
+}
+.search-section {
+    width: 500px;
+}
+
+
+}
+@media all and  (min-width: 100.01em) and (max-width: 120em){ /* min:1600px; maxn:1920px;*/
+#wrapper{
+width:65%;
+}
+.top-nav {
+    display:block;margin: 0.18em 0px 0px 18em;
+
+}
+.search-section {
+    width: 600px;
+}
+
+
+}
+/*The link now works when clicking / touching the content area, but not the header area. To fix this, first add z-index: 1000; */

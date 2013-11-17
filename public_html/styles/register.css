@@ -1,0 +1,77 @@
+.main-body{
+	margin:0;padding: 0;
+	min-height: 700px;
+	background: -moz-linear-gradient(#00aadd,#3344ff) no-repeat;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0099cc', endColorstr='#3366ff') no-repeat; 
+ 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#00aadd, endColorstr=#3344ff)" no-repeat; 
+ 	background:   -webkit-linear-gradient(top,#00aadd, #3344ff) no-repeat;
+    background:         linear-gradient(to top, #00aadd, #3344ff) no-repeat; /* Firefox 16+, IE10, Opera 12.50+ */
+    font-family: helvatica arial serif;
+
+}
+.page-logo{
+	margin:15px auto 20px 190px;
+}
+.registration-description{
+	width:200px; float:left;word-break:break-all;border:1px solid black;margin:115px 5px auto 190px;padding: 20px 40px;color:4;font-size: 20px;font-weight: 26px;border:1px solid #ccc;border-radius: 4px;
+}
+.registration-form{
+	float:left;margin:100px 30px auto 20px;
+}
+.registration-label{
+	display:inline-block;
+	width: 200px;
+	vertical-align: middle;
+	height: 30px;
+	line-height: 1.78em;
+	text-align: right;
+	padding:5px auto;
+	color:4;font-size: 20px;font-weight: 26px;
+}
+.row-wrapper{
+
+}
+.input-wrapper{
+	display:inline-block;
+	margin: 10px auto 5px 30px;
+	vertical-align: middle;
+}
+.registration-input{
+	width: 200px;
+	height: 32px;
+	border:1px solid #b68323;
+	border-radius: 4px;
+	text-align: middle;
+	font-size: 17px;
+	font-weight:15px;
+}
+.submit-wrapper{
+	
+}
+
+.submit-wrapper input{
+	border:1px solid #b68323;
+	border-radius: 4px;
+	background: -moz-linear-gradient(center top , #dFE0B0 0pt, #dFB62F 50%) repeat scroll 0 0 transparent;
+	/*background: -moz-linear-gradient(#fed,#2eb5de) no-repeat;*/
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#dFB62F', endColorstr='#dFE0B0') no-repeat; 
+ 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#dFB62F, endColorstr=#dFE0B0)" no-repeat; 
+ 	background:   -webkit-linear-gradient(top,#dFE0B0, #dFB62F) no-repeat;
+    background:         linear-gradient(to top, #dFE0B0, #dFB62F) no-repeat; /* Firefox 16+, IE10, Opera 12.50+ */
+    text-shadow:0 1px 0 #eee;
+    font-size: 26px;
+    font-weight:20px;
+    margin: 30px auto 5px 236px;
+	width: 160px;
+    height: 50px;
+}
+.output-message{
+	width: 300px;
+	color:4;font-size: 20px;font-weight: 26px;
+	word-break:break-all;
+	margin: auto auto 5px 90px;
+}
+.highlight{
+	color:#dFB62F;
+	text-shadow:0 1px 0 #eee;
+}
