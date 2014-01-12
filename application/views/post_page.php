@@ -1,8 +1,8 @@
 <?php foreach ($data as $key => $value) :?>		
 		<article  class="post" id='<?=$value['post_id'];?>'>
 	<h2>
-						<a href="http://mobile.smashingmagazine.com/2013/03/25/c-swipe-navigation-on-android/" 
-						rel="bookmark" title="Read 'C-Swipe: An Ergonomic Solution To Navigation Fragmentation On Android'">
+						<a href="/<?=stripslashes($value['post_title']);?>"
+						rel="bookmark" title="<?=stripslashes($value['post_title']);?>">
 						<span class="post-category"><?=stripslashes($value['category_name']);?></span>
 						<span class="post-title"><?=stripslashes($value['post_title']);?></span></a>
 						</h2>
